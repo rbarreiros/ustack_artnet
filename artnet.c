@@ -8,7 +8,7 @@
 #include <string.h>
 
 // Debug
-#include "serial.h"
+#include "debug.h"
 
 // Struct holding all artnet globals, status, etc
 artnet_status_t gArtStatus = {0};
